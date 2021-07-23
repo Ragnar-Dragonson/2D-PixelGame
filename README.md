@@ -5,4 +5,8 @@ but to support other developers who like me are doing their own projects i am sh
 
 ![Image1](Images/Image1.png)
 
+
+
 ![Image2](Images/Image2.png)
+
+These are the beginnings of my design after many hours trying to get the tilemaps to look right.
